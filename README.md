@@ -26,5 +26,6 @@ Back-end Master
      - Jenkins
      - Understanding of Deploy
        - Docker
+1. Performance Test
 1. Others
    - MSA (Micro Service Architecture)
