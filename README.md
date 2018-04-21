@@ -26,6 +26,8 @@ Back-end Master
      - Jenkins
      - Understanding of Deploy
        - Docker
+         - Kubernetes vs Mesos
 1. Performance Test
 1. Others
    - MSA (Micro Service Architecture)
+    - Spring Cloud
